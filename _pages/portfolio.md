@@ -9,6 +9,8 @@ author_profile: true
 
 [University of St. Thomas - Guide for Using the Events Template and Events Module](/pdf/cms_how_to_guide.pdf)
 
+---
+
 ## 2019
 
 [University of St. Thomas - Our Campuses Web Page](https://www.stthomas.edu/about/our-campuses/index.html)
@@ -22,6 +24,8 @@ author_profile: true
 [University of St. Thomas - Info Center Web Page](https://www.stthomas.edu/info-center/index.html)
 
 [University of St. Thomas - Morrison Family College of Health Web Page](https://www.stthomas.edu/health/index.html)
+
+---
 
 ## 2018
 
@@ -38,7 +42,6 @@ author_profile: true
 [Fender Bender - Snap Shop: Warrensburg Collision](https://www.fenderbender.com/articles/9724-snap-shop-warrensburg-collision)
 
 [Ratchet + Wrench - Revolutionizing the Traditional Shop Model](https://www.ratchetandwrench.com/articles/5497-revolutionizing-the-traditional-shop-model)
-
 
 ---
 
@@ -100,9 +103,13 @@ author_profile: true
 
 [Automotive Fleet - Essential Safety Technologies for Fleets](https://www.automotive-fleet.com/156674/essential-safety-technologies-for-fleets)
 
+---
+
 ## 2015
 
 [mxdwn.com - Boots – ‘Motorcycle Jesus’ Original Soundtrack](https://music.mxdwn.com/2015/03/06/reviews/boots-motorcycle-jesus-original-soundtrack/)
+
+---
 
 ## 2014
 
@@ -112,13 +119,19 @@ author_profile: true
 
 [Dig Magazine - Imagine Dragons slays the Forum for the lovers](http://digmagonline.com/dig-magazine/1696/entertainment/events/imagine-dragons-slay-the-forum-for-the-lovers?rq=Kathleen%20Sandoval)
 
+---
+
 ## 2013
 
 [Daily Forty-Niner - Spectacle: “The 20/20 Experience Pt. 2” Album Review](https://daily49er.com/blog/2013/10/03/spectacle-the-2020-experience-pt-2-album-review/)
 
+---
+
 ## 2012
 
 [Daily Forty-Niner - CSULB Recycling Center to undergo renovations](https://daily49er.com/news/2012/09/26/csulb-recycling-center-to-undergo-renovations/)
+
+---
 
 ## 2011
 
