@@ -7,8 +7,7 @@ author_profile: true
 
 ## 2020
 
-[University of St. Thomas - Guide for Using the Events Template
-and Events Module](/pdf/cms_how_to_guide.pdf)
+[University of St. Thomas - Guide for Using the Events Template and Events Module](/pdf/cms_how_to_guide.pdf)
 
 ## 2019
 
@@ -100,3 +99,27 @@ and Events Module](/pdf/cms_how_to_guide.pdf)
 [Automotive Fleet - 50 Ways to Reduce Fuel Spend](https://www.automotive-fleet.com/156717/50-ways-to-reduce-fuel-spend)
 
 [Automotive Fleet - Essential Safety Technologies for Fleets](https://www.automotive-fleet.com/156674/essential-safety-technologies-for-fleets)
+
+## 2015
+
+[mxdwn.com - Boots – ‘Motorcycle Jesus’ Original Soundtrack](https://music.mxdwn.com/2015/03/06/reviews/boots-motorcycle-jesus-original-soundtrack/)
+
+## 2014
+
+[Dig Magazine - Frostbites](http://digmagonline.com/dig-magazine/2074/uncategorized/2074?rq=Kathleen%20Sandoval)
+
+[Dig Magazine - Must-have accessories for fall](http://digmagonline.com/dig-magazine/2461/fashion/must-have-accessories-for-fall?rq=Kathleen%20Sandoval)
+
+[Dig Magazine - Imagine Dragons slays the Forum for the lovers](http://digmagonline.com/dig-magazine/1696/entertainment/events/imagine-dragons-slay-the-forum-for-the-lovers?rq=Kathleen%20Sandoval)
+
+## 2013
+
+[Daily Forty-Niner - Spectacle: “The 20/20 Experience Pt. 2” Album Review](https://daily49er.com/blog/2013/10/03/spectacle-the-2020-experience-pt-2-album-review/)
+
+## 2012
+
+[Daily Forty-Niner - CSULB Recycling Center to undergo renovations](https://daily49er.com/news/2012/09/26/csulb-recycling-center-to-undergo-renovations/)
+
+## 2011
+
+[Dig Magazine - Paying it forward in Long Beach](http://digmagonline.com/dig-magazine/796/culture/paying-it-forward-in-long-beach?rq=Kathleen%20Sandoval)
