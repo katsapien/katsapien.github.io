@@ -5,7 +5,28 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+## 2020
+
+[University of St. Thomas - Guide for Using the Events Template
+and Events Module](/pdf/cms_how_to_guide.pdf)
+
+## 2019
+
+[University of St. Thomas - Our Campuses Web Page](https://www.stthomas.edu/about/our-campuses/index.html)
+
+[University of St. Thomas - Campus Maps and Directions Web Page](https://www.stthomas.edu/visit-us/maps-directions/index.html)
+
+[University of St. Thomas - Athletics Web Page](https://www.stthomas.edu/athletics/index.html)
+
+[University of St. Thomas - Media Relations Web Page](https://www.stthomas.edu/media-relations/index.html)
+
+[University of St. Thomas - Info Center Web Page](https://www.stthomas.edu/info-center/index.html)
+
+[University of St. Thomas - Morrison Family College of Health Web Page](https://www.stthomas.edu/health/index.html)
+
 ## 2018
+
+[University of St. Thomas - ThreeSixty Journalism Style Guide](https://www.slideshare.net/slideshow/embed_code/key/6u3NBKbzwdFjvy)
 
 [Fender Bender - Shop Talk: Domenico Nigo](/pdf/fb_shop_talk_domenico_nigo.pdf)
 
@@ -18,6 +39,7 @@ author_profile: true
 [Fender Bender - Snap Shop: Warrensburg Collision](https://www.fenderbender.com/articles/9724-snap-shop-warrensburg-collision)
 
 [Ratchet + Wrench - Revolutionizing the Traditional Shop Model](https://www.ratchetandwrench.com/articles/5497-revolutionizing-the-traditional-shop-model)
+
 
 ---
 
